@@ -1,0 +1,54 @@
+body { 
+    background-color: thistle;
+ }
+
+ nav {
+background-color: wheat;
+text-align: center;
+padding: 1px;
+
+ }
+
+ nav a {
+
+    display: block;
+
+    color: darkolivegreen;
+    padding: 10px;
+    width: 20px;
+    height: 10px;
+   margin: auto;
+   font: bold 20px sans-serif;
+    
+ }
+
+ main {
+   display: flex;
+ }
+
+article, aside {
+   padding: 10px;
+   margin: 10px; 
+   border: 2px solid black;
+   border-radius: 10px;
+}
+
+aside {
+   width: 30%; 
+   height: 30%;
+}
+
+aside {
+   width: 30%;
+height: 30px; 
+}
+
+article img { 
+   width: 60%;
+   background-color: wheat;
+   
+}
+
+.single-column {
+   display: block;
+}
