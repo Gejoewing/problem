@@ -1,0 +1,48 @@
+/* Global */
+
+body { 
+    background-color: tan;
+}
+
+a { 
+    color: darkgreen;
+
+}
+
+a:hover {
+    color: darksalmon;
+    text-decoration: none;
+     
+}
+
+img { 
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+
+
+
+
+
+
+
+
+
+/*Mobile Styles*/
+
+
+
+
+
+/* Tablet Styles */
+
+
+
+
+
+/*  Desktop  Stykes */
+
+
