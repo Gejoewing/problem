@@ -1,0 +1,41 @@
+body {
+    background-color: peru;
+
+}
+
+a {
+    color: darkolivegreen;
+
+}
+a:hover { 
+    color: salmon;
+    text-decoration: none;
+
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    border: 25px solid peru;
+    border-color: peru;
+
+}
+
+/* mobile styles */
+
+#container {
+    margin: 0 auto;
+    background: sandybrown;
+    padding: 10px;
+    border: 50px;
+    border-color: black;
+}
+
+nav ul li a {
+    display:  block; 
+    padding: 10px;
+    color:sandybrown; 
+    color: darkolivegreen;
+    text-decoration: none;
+}
